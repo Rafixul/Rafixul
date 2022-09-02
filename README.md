@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rafixul or simply Heidi
-- 👀 I’m interested in digital design, writing, roleplay and music
-- 🌱 I’m currently learning how to use Git and Github, and in general, how to code
+- 🐱‍👓 Hi, I’m @Rafixul or simply Heidi
+- 🎶 I’m interested in digital design, writing, roleplay and music
+- 🍪 I’m currently learning how to use Git and Github, and in general, how to code
 - 💞️ I’m looking to collaborate on my studies
 - 📫 How to reach me, you do this simply by asking here for contact
 
